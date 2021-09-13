@@ -1,1 +1,72 @@
+如龙网络加速系统_210913
 
+更新日志：
+
+修改了国家码为思密达
+
+去除了强制更换国家码的限制
+
+增强了发射功率
+
+强制优先使用：1.6.11 信道
+
+启用了Android Framework节电机制
+
+启用了内存深度休眠机制
+
+添加了WPA3支持
+
+添加了几项Mac随机地址
+
+启用了802.11d和802.11h
+
+对部分协议的调整
+
+禁用了Wlan自动关机机制
+
+启用了2.4ghz和5ghz最大功率
+
+对于一些突发数据包更好的处理
+
+对于TCP的更改
+
+禁用了MTK强制单天线的限制
+
+等等...
+
+English:
+Rulong Network Acceleration System_210913
+
+ Update log:
+
+ Modified the country code to Smecta
+
+ Removed the restriction of mandatory country code change
+
+ Enhanced transmit power
+
+ Mandatory priority use: 1.6.11 channel
+
+ Android Framework power saving mechanism is enabled
+
+ Enabled memory deep sleep mechanism
+
+ Added WPA3 support
+
+ Added a few random Mac addresses
+
+ 802.11d and 802.11h enabled
+
+ Adjustments to some agreements
+
+ Disabled Wlan automatic shutdown mechanism
+
+ 2.4ghz and 5ghz maximum power enabled
+
+ Better handling of some burst data packets
+
+ Changes to TCP
+
+ Disabled the MTK mandatory single antenna restriction
+
+ and many more...
